@@ -95,7 +95,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content_to_web = dict()
     search_engine = arxiv.Search(
         query = query,
-        max_results = 100,
+        max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
@@ -321,6 +321,7 @@ def json_to_md(filename,md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
+            # Here modify the header and file format if needed. E.g., make it dropdown.
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
