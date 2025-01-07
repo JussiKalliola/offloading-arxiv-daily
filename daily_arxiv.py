@@ -95,7 +95,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content_to_web = dict()
     search_engine = arxiv.Search(
         query = query,
-        max_results = max_results,
+        max_results = 100,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
