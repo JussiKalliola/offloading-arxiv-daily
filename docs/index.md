@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**Towards Beyond Communications 6G Networks Status and Challenges**|Vasileios Tsekenis et.al.|[2501.04496](http://arxiv.org/abs/2501.04496)|null|
+|**2025-01-08**|**A 5G-Edge Architecture for Computational Offloading of Computer Vision Applications**|Marcelo V. B. da Silva et.al.|[2501.04267](http://arxiv.org/abs/2501.04267)|null|
 |**2025-01-06**|**Online Collaborative Resource Allocation and Task Offloading for Multi-access Edge Computing**|Geng Sun et.al.|[2501.02952](http://arxiv.org/abs/2501.02952)|null|
 |**2025-01-06**|**An Infrastructure Software Perspective Toward Computation Offloading between Executable Specifications and Foundation Models**|Dezhi Ran et.al.|[2501.02829](http://arxiv.org/abs/2501.02829)|null|
 |**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[2501.02001](http://arxiv.org/abs/2501.02001)|null|
