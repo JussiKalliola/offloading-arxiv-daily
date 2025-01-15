@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.13
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-11**|**Task Delay and Energy Consumption Minimization for Low-altitude MEC via Evolutionary Multi-objective Deep Reinforcement Learning**|Geng Sun et.al.|[2501.06410](http://arxiv.org/abs/2501.06410)|null|
+|**2025-01-08**|**Intelligent Task Offloading: Advanced MEC Task Offloading and Resource Management in 5G Networks**|Alireza Ebrahimi et.al.|[2501.06242](http://arxiv.org/abs/2501.06242)|null|
+|**2024-12-24**|**Energy Efficient Computation Offloading and Virtual Connection Control in Uplink Small Cell Networks**|Davoud Yousefi et.al.|[2501.06194](http://arxiv.org/abs/2501.06194)|null|
+|**2025-01-10**|**Fully Decentralized Computation Offloading in Priority-Driven Edge Computing Systems**|Shubham Aggarwal et.al.|[2501.05660](http://arxiv.org/abs/2501.05660)|null|
 |**2025-01-05**|**Towards Beyond Communications 6G Networks Status and Challenges**|Vasileios Tsekenis et.al.|[2501.04496](http://arxiv.org/abs/2501.04496)|null|
 |**2025-01-08**|**A 5G-Edge Architecture for Computational Offloading of Computer Vision Applications**|Marcelo V. B. da Silva et.al.|[2501.04267](http://arxiv.org/abs/2501.04267)|null|
 |**2025-01-06**|**Online Collaborative Resource Allocation and Task Offloading for Multi-access Edge Computing**|Geng Sun et.al.|[2501.02952](http://arxiv.org/abs/2501.02952)|null|
