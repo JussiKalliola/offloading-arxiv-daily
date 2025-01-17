@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Multi-task Domain Adaptation for Computation Offloading in Edge-intelligence Networks**|Runxin Han et.al.|[2501.07585](http://arxiv.org/abs/2501.07585)|null|
 |**2025-01-11**|**Task Delay and Energy Consumption Minimization for Low-altitude MEC via Evolutionary Multi-objective Deep Reinforcement Learning**|Geng Sun et.al.|[2501.06410](http://arxiv.org/abs/2501.06410)|null|
 |**2025-01-08**|**Intelligent Task Offloading: Advanced MEC Task Offloading and Resource Management in 5G Networks**|Alireza Ebrahimi et.al.|[2501.06242](http://arxiv.org/abs/2501.06242)|null|
 |**2024-12-24**|**Energy Efficient Computation Offloading and Virtual Connection Control in Uplink Small Cell Networks**|Davoud Yousefi et.al.|[2501.06194](http://arxiv.org/abs/2501.06194)|null|
