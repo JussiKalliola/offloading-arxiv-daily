@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Vehicular Multi-Tier Distributed Computing with Hybrid THz-RF Transmission in Satellite-Terrestrial Integrated Networks**|Ni Zhang et.al.|[2501.15577](http://arxiv.org/abs/2501.15577)|null|
+|**2025-01-25**|**Enhancing Disaster Resilience with UAV-Assisted Edge Computing: A Reinforcement Learning Approach to Managing Heterogeneous Edge Devices**|Talha Azfar et.al.|[2501.15305](http://arxiv.org/abs/2501.15305)|null|
+|**2025-01-25**|**Reinforcement Learning Controlled Adaptive PSO for Task Offloading in IIoT Edge Computing**|Minod Perera et.al.|[2501.15203](http://arxiv.org/abs/2501.15203)|null|
+|**2025-01-25**|**UAV-Assisted MEC Architecture for Collaborative Task Offloading in Urban IoT Environment**|Subhrajit Barick et.al.|[2501.15164](http://arxiv.org/abs/2501.15164)|null|
+|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
 |**2025-01-22**|**Joint Task Offloading and User Scheduling in 5G MEC under Jamming Attacks**|Mohammadreza Amini et.al.|[2501.13227](http://arxiv.org/abs/2501.13227)|null|
 |**2025-01-20**|**Secure Resource Allocation via Constrained Deep Reinforcement Learning**|Jianfei Sun et.al.|[2501.11557](http://arxiv.org/abs/2501.11557)|null|
 |**2025-01-20**|**A Dynamic Improvement Framework for Vehicular Task Offloading**|Qianren Li et.al.|[2501.11333](http://arxiv.org/abs/2501.11333)|null|
@@ -128,7 +133,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
