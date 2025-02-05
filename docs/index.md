@@ -7,18 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Distributed Offloading in Multi-Access Edge Computing Systems: A Mean-Field Perspective**|Shubham Aggarwal et.al.|[2501.18718](http://arxiv.org/abs/2501.18718)|null|
 |**2025-01-28**|**Network Slice-based Low-Altitude Intelligent Network for Advanced Air Mobility**|Kai Xiong et.al.|[2501.17014](http://arxiv.org/abs/2501.17014)|null|
 |**2025-01-26**|**Vehicular Multi-Tier Distributed Computing with Hybrid THz-RF Transmission in Satellite-Terrestrial Integrated Networks**|Ni Zhang et.al.|[2501.15577](http://arxiv.org/abs/2501.15577)|null|
 |**2025-01-25**|**Enhancing Disaster Resilience with UAV-Assisted Edge Computing: A Reinforcement Learning Approach to Managing Heterogeneous Edge Devices**|Talha Azfar et.al.|[2501.15305](http://arxiv.org/abs/2501.15305)|null|
 |**2025-01-25**|**Reinforcement Learning Controlled Adaptive PSO for Task Offloading in IIoT Edge Computing**|Minod Perera et.al.|[2501.15203](http://arxiv.org/abs/2501.15203)|**[link](https://github.com/MinodRashmika/APSO_SAC_IIOT)**|
-|**2025-01-25**|**UAV-Assisted MEC Architecture for Collaborative Task Offloading in Urban IoT Environment**|Subhrajit Barick et.al.|[2501.15164](http://arxiv.org/abs/2501.15164)|null|
+|**2025-01-31**|**UAV-Assisted MEC Architecture for Collaborative Task Offloading in Urban IoT Environment**|Subhrajit Barick et.al.|[2501.15164](http://arxiv.org/abs/2501.15164)|null|
 |**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
 |**2025-01-22**|**Joint Task Offloading and User Scheduling in 5G MEC under Jamming Attacks**|Mohammadreza Amini et.al.|[2501.13227](http://arxiv.org/abs/2501.13227)|null|
 |**2025-01-20**|**Secure Resource Allocation via Constrained Deep Reinforcement Learning**|Jianfei Sun et.al.|[2501.11557](http://arxiv.org/abs/2501.11557)|null|
