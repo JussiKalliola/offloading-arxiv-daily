@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Lightweight Authenticated Task Offloading in 6G-Cloud Vehicular Twin Networks**|Sarah Al-Shareeda et.al.|[2502.03403](http://arxiv.org/abs/2502.03403)|null|
+|**2025-02-05**|**Advancements in Mobile Edge Computing and Open RAN: Leveraging Artificial Intelligence and Machine Learning for Wireless Systems**|Ryan Barker et.al.|[2502.02886](http://arxiv.org/abs/2502.02886)|null|
 |**2025-01-30**|**Distributed Offloading in Multi-Access Edge Computing Systems: A Mean-Field Perspective**|Shubham Aggarwal et.al.|[2501.18718](http://arxiv.org/abs/2501.18718)|null|
 |**2025-01-28**|**Network Slice-based Low-Altitude Intelligent Network for Advanced Air Mobility**|Kai Xiong et.al.|[2501.17014](http://arxiv.org/abs/2501.17014)|null|
 |**2025-01-26**|**Vehicular Multi-Tier Distributed Computing with Hybrid THz-RF Transmission in Satellite-Terrestrial Integrated Networks**|Ni Zhang et.al.|[2501.15577](http://arxiv.org/abs/2501.15577)|null|
