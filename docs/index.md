@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Task Offloading in Vehicular Edge Computing using Deep Reinforcement Learning: A Survey**|Ashab Uddin et.al.|[2502.06963](http://arxiv.org/abs/2502.06963)|null|
+|**2025-02-10**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[2502.06581](http://arxiv.org/abs/2502.06581)|null|
 |**2025-02-07**|**Uplink Rate-Splitting Multiple Access for Mobile Edge Computing with Short-Packet Communications**|Jiawei Xu et.al.|[2502.04827](http://arxiv.org/abs/2502.04827)|null|
 |**2025-02-05**|**Lightweight Authenticated Task Offloading in 6G-Cloud Vehicular Twin Networks**|Sarah Al-Shareeda et.al.|[2502.03403](http://arxiv.org/abs/2502.03403)|null|
 |**2025-02-06**|**Advancements in Mobile Edge Computing and Open RAN: Leveraging Artificial Intelligence and Machine Learning for Wireless Systems**|Ryan Barker et.al.|[2502.02886](http://arxiv.org/abs/2502.02886)|null|
