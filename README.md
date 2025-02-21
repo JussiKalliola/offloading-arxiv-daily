@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|
 |**2025-02-14**|**IRS-assisted Edge Computing for Vehicular Networks: A Generative Diffusion Model-based Stackelberg Game Approach**|Yixian Wang et.al.|[2502.10149](http://arxiv.org/abs/2502.10149)|null|
 |**2025-02-12**|**Generative AI-Enhanced Cooperative MEC of UAVs and Ground Stations for Unmanned Surface Vehicles**|Jiahao You et.al.|[2502.08119](http://arxiv.org/abs/2502.08119)|null|
 |**2025-02-10**|**Task Offloading in Vehicular Edge Computing using Deep Reinforcement Learning: A Survey**|Ashab Uddin et.al.|[2502.06963](http://arxiv.org/abs/2502.06963)|null|
@@ -142,7 +143,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
