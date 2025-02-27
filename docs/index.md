@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
+|**2025-02-21**|**Computation Offloading Strategies in Integrated Terrestrial and Non-Terrestrial Networks**|Muhammad Ahmed Mohsin et.al.|[2502.15903](http://arxiv.org/abs/2502.15903)|null|
 |**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|
 |**2025-02-14**|**IRS-assisted Edge Computing for Vehicular Networks: A Generative Diffusion Model-based Stackelberg Game Approach**|Yixian Wang et.al.|[2502.10149](http://arxiv.org/abs/2502.10149)|null|
 |**2025-02-12**|**Generative AI-Enhanced Cooperative MEC of UAVs and Ground Stations for Unmanned Surface Vehicles**|Jiahao You et.al.|[2502.08119](http://arxiv.org/abs/2502.08119)|null|
