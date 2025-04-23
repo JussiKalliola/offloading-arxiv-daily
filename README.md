@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
+|**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
 |**2025-04-13**|**PLS-Assisted Offloading for Edge Computing-Enabled Post-Quantum Security in Resource-Constrained Devices**|Hamid Amiriara et.al.|[2504.09437](http://arxiv.org/abs/2504.09437)|null|
 |**2025-04-10**|**Hybrid Reinforcement Learning-based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing**|Minrui Xu et.al.|[2504.08134](http://arxiv.org/abs/2504.08134)|null|
 |**2025-03-26**|**UAV-Assisted MEC for Disaster Response: Stackelberg Game-Based Resource Optimization**|Yafei Guo et.al.|[2504.07119](http://arxiv.org/abs/2504.07119)|null|
@@ -156,7 +158,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
