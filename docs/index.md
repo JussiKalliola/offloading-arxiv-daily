@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Preemption Aware Task Scheduling for Priority and Deadline Constrained DNN Inference Task Offloading in Homogeneous Mobile-Edge Networks**|Jamie Cotter et.al.|[2504.16792](http://arxiv.org/abs/2504.16792)|null|
+|**2025-04-23**|**MEC Task Offloading in AIoT: A User-Centric DRL Model Splitting Inference Scheme**|Weixi Li et.al.|[2504.16729](http://arxiv.org/abs/2504.16729)|null|
 |**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
 |**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
 |**2025-04-13**|**PLS-Assisted Offloading for Edge Computing-Enabled Post-Quantum Security in Resource-Constrained Devices**|Hamid Amiriara et.al.|[2504.09437](http://arxiv.org/abs/2504.09437)|null|
