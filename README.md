@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,8 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-10**|**Distributionally Robust Contract Theory for Edge AIGC Services in Teleoperation**|Zijun Zhan et.al.|[2505.06678](http://arxiv.org/abs/2505.06678)|null|
 |**2025-05-07**|**Joint Task Offloading and Channel Allocation in Spatial-Temporal Dynamic for MEC Networks**|Tianyi Shi et.al.|[2505.04272](http://arxiv.org/abs/2505.04272)|null|
-|**2025-05-01**|**SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge**|Negar Erfaniantaghvayi et.al.|[2505.00848](http://arxiv.org/abs/2505.00848)|null|
+|**2025-05-01**|**SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge**|Negar Erfaniantaghvayi et.al.|[2505.00848](http://arxiv.org/abs/2505.00848)|**[link](https://github.com/Negar-Erfanian/SeLR)**|
 |**2025-04-29**|**Intelligent Task Offloading in VANETs: A Hybrid AI-Driven Approach for Low-Latency and Energy Efficiency**|Tariq Qayyum et.al.|[2504.20735](http://arxiv.org/abs/2504.20735)|null|
 |**2025-04-25**|**Joint Resource Estimation and Trajectory Optimization for eVTOL-involved CR network: A Monte Carlo Tree Search-based Approach**|Kai Xiong et.al.|[2504.18031](http://arxiv.org/abs/2504.18031)|null|
 |**2025-04-24**|**Cooperative Task Offloading through Asynchronous Deep Reinforcement Learning in Mobile Edge Computing for Future Networks**|Yuelin Liu et.al.|[2504.17526](http://arxiv.org/abs/2504.17526)|null|
@@ -165,7 +166,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
