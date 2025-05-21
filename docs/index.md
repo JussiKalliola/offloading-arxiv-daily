@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Learning Driven Elastic Task Multi-Connectivity Immersive Computing Systems**|Babak Badnava et.al.|[2505.13331](http://arxiv.org/abs/2505.13331)|null|
+|**2025-05-16**|**Enhancing Secrecy Energy Efficiency in RIS-Aided Aerial Mobile Edge Computing Networks: A Deep Reinforcement Learning Approach**|Aly Sabri Abdalla et.al.|[2505.10815](http://arxiv.org/abs/2505.10815)|null|
 |**2025-05-10**|**Distributionally Robust Contract Theory for Edge AIGC Services in Teleoperation**|Zijun Zhan et.al.|[2505.06678](http://arxiv.org/abs/2505.06678)|**[link](https://github.com/zijun0819/dro-contract-theory)**|
 |**2025-05-07**|**Joint Task Offloading and Channel Allocation in Spatial-Temporal Dynamic for MEC Networks**|Tianyi Shi et.al.|[2505.04272](http://arxiv.org/abs/2505.04272)|null|
 |**2025-05-01**|**SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge**|Negar Erfaniantaghvayi et.al.|[2505.00848](http://arxiv.org/abs/2505.00848)|**[link](https://github.com/Negar-Erfanian/SeLR)**|
