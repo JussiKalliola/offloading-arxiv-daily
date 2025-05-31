@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Real-World Modeling of Computation Offloading for Neural Networks with Early Exits and Splits**|Jan Danek et.al.|[2505.22149](http://arxiv.org/abs/2505.22149)|null|
 |**2025-05-19**|**Learning Driven Elastic Task Multi-Connectivity Immersive Computing Systems**|Babak Badnava et.al.|[2505.13331](http://arxiv.org/abs/2505.13331)|null|
 |**2025-05-16**|**Enhancing Secrecy Energy Efficiency in RIS-Aided Aerial Mobile Edge Computing Networks: A Deep Reinforcement Learning Approach**|Aly Sabri Abdalla et.al.|[2505.10815](http://arxiv.org/abs/2505.10815)|null|
 |**2025-05-10**|**Distributionally Robust Contract Theory for Edge AIGC Services in Teleoperation**|Zijun Zhan et.al.|[2505.06678](http://arxiv.org/abs/2505.06678)|**[link](https://github.com/zijun0819/dro-contract-theory)**|
