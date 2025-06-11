@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Computation Capacity Maximization for Pinching Antennas-Assisted Wireless Powered MEC Systems**|Liu Peng et.al.|[2506.07598](http://arxiv.org/abs/2506.07598)|null|
 |**2025-06-04**|**Knowledge-Guided Attention-Inspired Learning for Task Offloading in Vehicle Edge Computing**|Ke Ma et.al.|[2506.04456](http://arxiv.org/abs/2506.04456)|null|
 |**2025-06-03**|**FAuNO: Semi-Asynchronous Federated Reinforcement Learning Framework for Task Offloading in Edge Systems**|Frederico Metelo et.al.|[2506.02668](http://arxiv.org/abs/2506.02668)|null|
 |**2025-06-03**|**A Novel Deep Reinforcement Learning Method for Computation Offloading in Multi-User Mobile Edge Computing with Decentralization**|Nguyen Chi Long et.al.|[2506.02458](http://arxiv.org/abs/2506.02458)|null|
@@ -173,7 +174,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
