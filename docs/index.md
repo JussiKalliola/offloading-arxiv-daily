@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Optimal Task Offloading with Firm Deadlines for Mobile Edge Computing Systems**|Khai Doan et.al.|[2506.09180](http://arxiv.org/abs/2506.09180)|null|
 |**2025-06-09**|**Computation Capacity Maximization for Pinching Antennas-Assisted Wireless Powered MEC Systems**|Liu Peng et.al.|[2506.07598](http://arxiv.org/abs/2506.07598)|null|
 |**2025-06-04**|**Knowledge-Guided Attention-Inspired Learning for Task Offloading in Vehicle Edge Computing**|Ke Ma et.al.|[2506.04456](http://arxiv.org/abs/2506.04456)|null|
 |**2025-06-03**|**FAuNO: Semi-Asynchronous Federated Reinforcement Learning Framework for Task Offloading in Edge Systems**|Frederico Metelo et.al.|[2506.02668](http://arxiv.org/abs/2506.02668)|null|
