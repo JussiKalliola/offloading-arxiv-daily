@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
 |**2025-07-01**|**Robust Task Offloading for UAV-enabled Secure MEC Against Aerial Eavesdropper**|Can Cui et.al.|[2507.00710](http://arxiv.org/abs/2507.00710)|null|
 |**2025-06-20**|**RL-based Adaptive Task Offloading in Mobile-Edge Computing for Future IoT Networks**|Ziad Qais Al Abbasi et.al.|[2506.22474](http://arxiv.org/abs/2506.22474)|null|
 |**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
@@ -181,7 +182,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors

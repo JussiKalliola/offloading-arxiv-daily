@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
 |**2025-07-01**|**Robust Task Offloading for UAV-enabled Secure MEC Against Aerial Eavesdropper**|Can Cui et.al.|[2507.00710](http://arxiv.org/abs/2507.00710)|null|
 |**2025-06-20**|**RL-based Adaptive Task Offloading in Mobile-Edge Computing for Future IoT Networks**|Ziad Qais Al Abbasi et.al.|[2506.22474](http://arxiv.org/abs/2506.22474)|null|
 |**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
