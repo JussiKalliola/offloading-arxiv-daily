@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**Reliable Task Offloading in MEC through Transmission Diversity and Jamming-Aware Scheduling**|Ghazal Asemian et.al.|[2507.09352](http://arxiv.org/abs/2507.09352)|null|
+|**2025-07-12**|**Fast and Adaptive Task Management in MEC: A Deep Learning Approach Using Pointer Networks**|Arild Yonkeu et.al.|[2507.09346](http://arxiv.org/abs/2507.09346)|null|
+|**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[2507.09341](http://arxiv.org/abs/2507.09341)|null|
 |**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
 |**2025-07-01**|**Robust Task Offloading for UAV-enabled Secure MEC Against Aerial Eavesdropper**|Can Cui et.al.|[2507.00710](http://arxiv.org/abs/2507.00710)|null|
 |**2025-06-20**|**RL-based Adaptive Task Offloading in Mobile-Edge Computing for Future IoT Networks**|Ziad Qais Al Abbasi et.al.|[2506.22474](http://arxiv.org/abs/2506.22474)|null|
