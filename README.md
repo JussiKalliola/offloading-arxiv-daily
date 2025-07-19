@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**QTCAJOSA: Low-Complexity Joint Offloading and Subchannel Allocation for NTN-Enabled IoMT**|Alejandro Flores C. et.al.|[2507.13242](http://arxiv.org/abs/2507.13242)|null|
+|**2025-07-17**|**Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning**|Xudong Wang et.al.|[2507.12910](http://arxiv.org/abs/2507.12910)|null|
+|**2025-07-16**|**MOFCO: Mobility- and Migration-Aware Task Offloading in Three-Layer Fog Computing Environments**|Soheil Mahdizadeh et.al.|[2507.12028](http://arxiv.org/abs/2507.12028)|null|
+|**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|
 |**2025-07-12**|**Reliable Task Offloading in MEC through Transmission Diversity and Jamming-Aware Scheduling**|Ghazal Asemian et.al.|[2507.09352](http://arxiv.org/abs/2507.09352)|null|
 |**2025-07-12**|**Fast and Adaptive Task Management in MEC: A Deep Learning Approach Using Pointer Networks**|Arild Yonkeu et.al.|[2507.09346](http://arxiv.org/abs/2507.09346)|null|
 |**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[2507.09341](http://arxiv.org/abs/2507.09341)|null|
@@ -185,7 +189,7 @@
 |**2024-04-30**|**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**|Haosong Peng et.al.|[2404.09285](http://arxiv.org/abs/2404.09285)|null|
 |**2024-04-12**|**Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks**|Trinh Van Chien et.al.|[2404.08396](http://arxiv.org/abs/2404.08396)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/JussiKalliola/offloading-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/JussiKalliola/offloading-arxiv-daily/graphs/contributors
