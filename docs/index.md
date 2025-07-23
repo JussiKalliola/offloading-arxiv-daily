@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Offloading
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Vehicular Cloud Computing: A cost-effective alternative to Edge Computing in 5G networks**|Rosario Patanè et.al.|[2507.15670](http://arxiv.org/abs/2507.15670)|null|
 |**2025-07-17**|**QTCAJOSA: Low-Complexity Joint Offloading and Subchannel Allocation for NTN-Enabled IoMT**|Alejandro Flores C. et.al.|[2507.13242](http://arxiv.org/abs/2507.13242)|null|
 |**2025-07-17**|**Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning**|Xudong Wang et.al.|[2507.12910](http://arxiv.org/abs/2507.12910)|null|
 |**2025-07-16**|**MOFCO: Mobility- and Migration-Aware Task Offloading in Three-Layer Fog Computing Environments**|Soheil Mahdizadeh et.al.|[2507.12028](http://arxiv.org/abs/2507.12028)|null|
